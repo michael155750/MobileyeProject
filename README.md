@@ -1,6 +1,6 @@
 # MobileyeProject
 This program is a system for detecting traffic lights
-in given pictures. 
+in given pictures. Using keras library for neural network and numpy for image processing.
 At the beginning the system finds candidates to be traffic 
 lights using convolution. The second step is finding
 which of the lights is traffic light by neural network.
